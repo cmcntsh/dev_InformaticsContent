@@ -66,9 +66,13 @@
 .main-head {
   Font-Family: 'Roboto Condensed', Sans-Serif;
   Font-Size: 35px;
+  justify-self: center;
 }
 body {
   Font-Family: 'Cabin', Sans-Serif;
   Font-Size: 16px;
+}
+.main-footer {
+  justify-self: center;
 }
 
