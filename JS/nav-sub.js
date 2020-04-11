@@ -13,6 +13,7 @@ document.write('          <li><a href="#0">Empty</a></li>');
 document.write('        </ul>');
 document.write('      </li>');
 document.write('      <li><a href="pages_setup_resources.html">Setup Resources</a></li>');
+document.write('      <li><a href="pages_html_resources.html">HTML Resources</a></li>');
 document.write('    </ul>');
 document.write('  </li>');
 document.write('  <li><a href="#0">About (Empty)</a></li>');
