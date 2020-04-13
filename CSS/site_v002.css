@@ -75,6 +75,11 @@ body {
 .main-footer {
   justify-self: center;
 }
+ul.nav-list {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 10px;
+}
 
 /* CSS for collapsible menu groups */
 .menu-group-input { /* Hides checkbox */
