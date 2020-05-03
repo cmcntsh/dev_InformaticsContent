@@ -9,3 +9,5 @@ def test_add():
 def test_product():
     assert testPython.product(5,5) == 25
     assert testPython.product(5) == 10
+
+assert testPython.x==10
